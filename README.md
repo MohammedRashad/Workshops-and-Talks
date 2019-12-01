@@ -1,6 +1,8 @@
 # Workshops-and-Talks
-Materials Prepared for the most important workshops and sessions I gave
+Materials Prepared for the most important workshops and sessions I gave during my career in Software
 
+
+# Workshops List
 
 **2019 :**
    * Image-Based Recommendation Systems Google Study Jams (Machine Learning & Black Friday)
