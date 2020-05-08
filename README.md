@@ -1,8 +1,9 @@
 # Workshops-and-Talks
-Materials Prepared for the most important workshops and sessions I gave during my career in Software
+Materials Prepared for the most important workshops and sessions I gave during my career in Software Engineering.
+ppts will be added soon.
 
 
-# Workshops List
+# Full List
 **2020 :**
 
 |  Name | Entity  | Type  |  Location |
