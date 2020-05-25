@@ -8,8 +8,8 @@ Materials Prepared for the most important workshops and sessions I gave during m
 
 |  Name | Entity  | Type  |  Location |
 |---|---|---|---|
-| Using Data Science for COVID-19  |  Lyra Analytics |  Webinar |  Online |
-| Using Computer Vision to detect COVID-19  | Lyra Analytics  | Webinar  | Online  | 
+| Applying Data Science for COVID-19  |  Lyra Analytics |  Webinar |  Online |
+| Using Computer Vision to detect COVID-19 from X-rays  | Lyra Analytics  | Webinar  | Online  | 
 
    
 # **2019**
